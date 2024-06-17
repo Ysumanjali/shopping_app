@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shopping_app/static/css/main.966bf797.css",
+    "main.js": "/shopping_app/static/js/main.2fd30cfb.js",
+    "static/js/453.6acac18a.chunk.js": "/shopping_app/static/js/453.6acac18a.chunk.js",
+    "static/media/2.png": "/shopping_app/static/media/2.5f080d9e47bf46ca3fce.png",
+    "static/media/3.png": "/shopping_app/static/media/3.c7785c796d0b2bf5aa2b.png",
+    "static/media/4.png": "/shopping_app/static/media/4.dce93278370eb9a94e56.png",
+    "static/media/1.png": "/shopping_app/static/media/1.87f6c2f48f7e15ed845b.png",
+    "static/media/8.webp": "/shopping_app/static/media/8.8bd0ab9ccc0cf9fb335d.webp",
+    "static/media/5.png": "/shopping_app/static/media/5.a13c8fc38072a14d6633.png",
+    "static/media/6.webp": "/shopping_app/static/media/6.5828a0fe3c77468b8726.webp",
+    "static/media/7.webp": "/shopping_app/static/media/7.59c9a0eba54726d9fc95.webp",
+    "index.html": "/shopping_app/index.html",
+    "main.966bf797.css.map": "/shopping_app/static/css/main.966bf797.css.map",
+    "main.2fd30cfb.js.map": "/shopping_app/static/js/main.2fd30cfb.js.map",
+    "453.6acac18a.chunk.js.map": "/shopping_app/static/js/453.6acac18a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.966bf797.css",
+    "static/js/main.2fd30cfb.js"
+  ]
+}
